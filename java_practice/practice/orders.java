@@ -1,4 +1,4 @@
-package BusReservation.practice;
+package java_practice.practice;
 
 public class orders {
     public static void main(String[] args) {
