@@ -18,10 +18,10 @@ public class Booking {
        System.out.println("Enter the Bus No:   ");
        busNo = scanner.nextInt();
 
-       // date string convert to Date object so use the simpledateformat 
+       // date string convert to Date object so use the simple date format 
        System.out.println("Enter the date:");
 
-    String dateInput = scanner.next();
+       String dateInput = scanner.next();
        SimpleDateFormat  dateFormat = new SimpleDateFormat("dd-MM-yyyy");
      
        try 
