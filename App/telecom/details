@@ -1,0 +1,13 @@
+bus reservation program ==>Booking,Bus,BusDemo classes are one program 
+order some items ==>orderMain is one program 
+Students ==>Students,Result are classes are one program 
+
+telecommunication
+Telephone interface
+1. power on   ---- powerOn()
+2. dial a number --- dial()
+4. attend a call -- answer()
+3. call to other phone -- callPhone()
+5. is ringing -- isRinging()
+
+

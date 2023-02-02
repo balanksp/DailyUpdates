@@ -28,7 +28,7 @@ public void fail_students(){
 }
 
 public void Above_75_percent(){
-if (Marks >= 75 ) {
+if (Marks >= 75 ) {     
     System.out.println("above 75% students : " + student_name);
 }
 }
