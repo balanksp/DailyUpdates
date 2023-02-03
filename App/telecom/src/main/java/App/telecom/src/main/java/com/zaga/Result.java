@@ -1,5 +1,4 @@
-package com.zaga;
-
+package App.telecom.src.main.java.com.zaga;
 
 public class Result {
     public static void main(String[] args) {

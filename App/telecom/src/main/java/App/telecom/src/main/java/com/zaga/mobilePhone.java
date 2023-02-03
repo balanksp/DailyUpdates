@@ -1,4 +1,4 @@
-package com.zaga;
+package App.telecom.src.main.java.com.zaga;
 
 public class mobilePhone implements Telephone {
    private String myNumber; 

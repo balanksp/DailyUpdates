@@ -1,4 +1,5 @@
-package com.zaga;
+package App.telecom.src.main.java.com.zaga;
+
 
 public interface Telephone {
     void powerOn();
