@@ -4,6 +4,8 @@ import java.text.SimpleDateFormat;
 import java.util.*;
 // store booking data 
 public class Booking {
+
+    
     String passengerName;
     int busNo;
     Date date;  // date object => then only easy to compare the date 
