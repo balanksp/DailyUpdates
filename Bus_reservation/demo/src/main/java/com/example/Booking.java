@@ -1,11 +1,10 @@
-package Bus_reservation.demo.src.main.java.com.example;
+package com.example;
+
 
 import java.text.SimpleDateFormat;
 import java.util.*;
 // store booking data 
 public class Booking {
-
-    
     String passengerName;
     int busNo;
     Date date;  // date object => then only easy to compare the date 

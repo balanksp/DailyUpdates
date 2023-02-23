@@ -10,7 +10,7 @@ public class Song {
     }
     
     public Song(){
-
+  // empty constructor is used for flexibility when creating the object
     }
 
     public String getTitle() {
